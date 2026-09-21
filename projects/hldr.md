@@ -12,8 +12,7 @@ github: hvpaiva/hldr
 
 ## What it is
 
-Personal site. Content lives as markdown in git; runtime state lives in
-SQLite. The image lives in the registry. Administration is a CLI in the
+Personal site. Desired state is files; observed state is the database. The image lives in the registry. Administration is a CLI in the
 kubectl shape, not a web panel.
 
 The public surface is HTML rendered on the server. No JavaScript is
