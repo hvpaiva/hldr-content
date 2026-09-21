@@ -1,0 +1,29 @@
+name: validate
+
+# Checks every push and pull request with the hldr the site runs: each
+# hldr release deploys first, then publishes its CLI, so the latest
+# release parses content exactly as production does.
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          ASSET: hldr-x86_64-unknown-linux-musl
+        run: |
+          gh release download --repo hvpaiva/hldr --pattern "$ASSET*" --dir "$RUNNER_TEMP"
+          (cd "$RUNNER_TEMP" && sha256sum -c "$ASSET.sha256")
+          install -m 755 "$RUNNER_TEMP/$ASSET" "$RUNNER_TEMP/hldr"
+          "$RUNNER_TEMP/hldr" version --client
+      - run: '"$RUNNER_TEMP/hldr" validate -f .'
