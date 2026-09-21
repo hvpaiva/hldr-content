@@ -1,0 +1,15 @@
+kind: Theme
+title: Catppuccin Dark
+dark: true
+colors:
+  bg: "#0f0f0f"
+  fg: "#cdd6f4"
+  fg_dim: "#cdd6f4"
+  fg_muted: "#7f849c"
+  accent: "#a6e3a1"
+  accent2: "#89b4fa"
+  highlight: "#f9e2af"
+  special: "#f5c2e7"
+  teal: "#94e2d5"
+  error: "#f38ba8"
+  border: "#585b70"

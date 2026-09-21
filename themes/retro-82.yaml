@@ -1,0 +1,15 @@
+kind: Theme
+title: Retro 82
+dark: true
+colors:
+  bg: "#05182e"
+  fg: "#f6dcac"
+  fg_dim: "#a7c9c6"
+  fg_muted: "#3f8f8a"
+  accent: "#faa968"
+  accent2: "#3f8f8a"
+  highlight: "#e97b3c"
+  special: "#3f8f8a"
+  teal: "#8cbfb8"
+  error: "#f85525"
+  border: "#0a2540"

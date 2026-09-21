@@ -1,0 +1,15 @@
+kind: Theme
+title: Flexoki Dark
+dark: true
+colors:
+  bg: "#100f0f"
+  fg: "#fffcf0"
+  fg_dim: "#fffcf0"
+  fg_muted: "#fffcf0"
+  accent: "#66800b"
+  accent2: "#205ea6"
+  highlight: "#ad8301"
+  special: "#a02f6f"
+  teal: "#24837b"
+  error: "#af3029"
+  border: "#100f0f"

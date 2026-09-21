@@ -1,0 +1,15 @@
+kind: Theme
+title: Ethereal
+dark: true
+colors:
+  bg: "#060b1e"
+  fg: "#ffcead"
+  fg_dim: "#c9b8a6"
+  fg_muted: "#6d7db6"
+  accent: "#7d82d9"
+  accent2: "#7d82d9"
+  highlight: "#e9bb4f"
+  special: "#c89dc1"
+  teal: "#a3bfd1"
+  error: "#ed5b5a"
+  border: "#131a3a"

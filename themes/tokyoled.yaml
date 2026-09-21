@@ -1,0 +1,15 @@
+kind: Theme
+title: Tokyoled
+dark: true
+colors:
+  bg: "#000000"
+  fg: "#a9b1d6"
+  fg_dim: "#acb0d0"
+  fg_muted: "#444b6a"
+  accent: "#9ece6a"
+  accent2: "#7aa2f7"
+  highlight: "#e0af68"
+  special: "#ad8ee6"
+  teal: "#449dab"
+  error: "#f7768e"
+  border: "#444b6a"

@@ -1,0 +1,15 @@
+kind: Theme
+title: Solitude
+dark: true
+colors:
+  bg: "#101315"
+  fg: "#cacccc"
+  fg_dim: "#cbc2be"
+  fg_muted: "#4b4e55"
+  accent: "#798186"
+  accent2: "#798186"
+  highlight: "#d9dbdc"
+  special: "#aeaeae"
+  teal: "#707070"
+  error: "#565d60"
+  border: "#101315"

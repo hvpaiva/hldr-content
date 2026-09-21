@@ -1,0 +1,15 @@
+kind: Theme
+title: Ristretto
+dark: true
+colors:
+  bg: "#2c2525"
+  fg: "#e6d9db"
+  fg_dim: "#c3b7b8"
+  fg_muted: "#72696a"
+  accent: "#f38d70"
+  accent2: "#f38d70"
+  highlight: "#f9cc6c"
+  special: "#a8a9eb"
+  teal: "#85dacc"
+  error: "#fd6883"
+  border: "#3d2f2a"

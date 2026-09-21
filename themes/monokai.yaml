@@ -1,0 +1,15 @@
+kind: Theme
+title: Monokai
+dark: true
+colors:
+  bg: "#0a1220"
+  fg: "#f0f2f5"
+  fg_dim: "#f0f2f5"
+  fg_muted: "#555c65"
+  accent: "#b2d977"
+  accent2: "#78dce8"
+  highlight: "#f2c063"
+  special: "#aba0f2"
+  teal: "#f28b66"
+  error: "#f25e86"
+  border: "#555c65"

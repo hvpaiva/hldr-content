@@ -1,0 +1,15 @@
+kind: Theme
+title: One Dark Pro
+dark: true
+colors:
+  bg: "#1e2229"
+  fg: "#abb2bf"
+  fg_dim: "#c8ccd4"
+  fg_muted: "#5c6370"
+  accent: "#98c379"
+  accent2: "#61afef"
+  highlight: "#e5c07b"
+  special: "#c678dd"
+  teal: "#56b6c2"
+  error: "#e06c75"
+  border: "#5c6370"

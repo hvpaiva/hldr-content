@@ -1,0 +1,15 @@
+kind: Theme
+title: Osaka Jade
+dark: true
+colors:
+  bg: "#111c18"
+  fg: "#c1c497"
+  fg_dim: "#d6d5bc"
+  fg_muted: "#81b8a8"
+  accent: "#509475"
+  accent2: "#509475"
+  highlight: "#459451"
+  special: "#d2689c"
+  teal: "#2dd5b7"
+  error: "#ff5345"
+  border: "#23372b"

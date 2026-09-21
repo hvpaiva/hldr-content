@@ -1,0 +1,15 @@
+kind: Theme
+title: Darcula
+dark: true
+colors:
+  bg: "#2b2b2b"
+  fg: "#a9b7c6"
+  fg_dim: "#ffffff"
+  fg_muted: "#808080"
+  accent: "#629755"
+  accent2: "#6897bb"
+  highlight: "#cc7832"
+  special: "#9876aa"
+  teal: "#6a8759"
+  error: "#ff6b68"
+  border: "#3c3f41"

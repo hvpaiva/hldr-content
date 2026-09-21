@@ -1,0 +1,15 @@
+kind: Theme
+title: Space Monkey
+dark: true
+colors:
+  bg: "#1c0e00"
+  fg: "#e7aa5a"
+  fg_dim: "#f1e5e7"
+  fg_muted: "#948a8b"
+  accent: "#bd4924"
+  accent2: "#66a891"
+  highlight: "#f9cc6c"
+  special: "#a8a9eb"
+  teal: "#bd4924"
+  error: "#fd6883"
+  border: "#948a8b"
