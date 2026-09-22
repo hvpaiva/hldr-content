@@ -4,6 +4,7 @@ metadata:
   title: observability lab
   tagline: A Kubernetes observability platform declared entirely in Terraform.
   status: archived
+  highlight: 5
   tags: [terraform, kubernetes, prometheus, linkerd]
   links:
     repo: https://github.com/hvpaiva/infra-tech-challenge

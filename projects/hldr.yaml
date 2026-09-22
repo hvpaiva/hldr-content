@@ -4,7 +4,7 @@ metadata:
   title: hldr
   tagline: Site and CLI for hvpaiva.dev.
   status: active
-  highlight: 1
+  highlight: 4
   tags: [rust, axum, sqlite, kamal]
   links:
     repo: https://github.com/hvpaiva/hldr

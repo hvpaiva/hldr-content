@@ -4,6 +4,7 @@ metadata:
   title: trlt
   tagline: A terminal translator that can keep the text on your machine.
   status: active
+  highlight: 6
   tags: [rust, cli, ollama]
   links:
     repo: https://github.com/hvpaiva/trlt

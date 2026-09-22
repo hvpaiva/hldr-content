@@ -4,6 +4,7 @@ metadata:
   title: tardis
   tagline: Human time expressions into exact datetimes, from the terminal.
   status: active
+  highlight: 2
   tags: [rust, cli, crates.io]
   links:
     repo: https://github.com/hvpaiva/tardis-cli
