@@ -4,7 +4,9 @@ metadata:
 spec:
   kind: Project
   enabled: true
-  description: Work worth opening. Context lives on the project page, not the README.
+  description: >-
+    Work worth opening. Context lives on the project page, not the README.
+    Everything smaller is in etc.md.
   order: highlight
   badge: status
   columns:
