@@ -13,8 +13,8 @@ format you always use should not be a flag you always type.
 
 ## What I built
 
-A Rust CLI, `td`, that parses relative and absolute expressions:
-`tomorrow 15:00`, `in 2 hours`, `next Friday`, `yesterday`, `now`. Output
+`td` parses relative and absolute expressions alike: `tomorrow 15:00`,
+`in 2 hours`, `next Friday`, `yesterday`, `now`. Output
 goes through strftime formats, with named presets in a TOML file so
 `--format br` means what you decided it means. Time zones are converted
 or forced with `--timezone`.
