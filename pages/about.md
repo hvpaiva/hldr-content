@@ -2,23 +2,31 @@
 
 {{ site.values.about }}
 
-I build and operate developer platforms and the path into production.
-The through-line is making systems operable: pipelines that are
-boring, hosts that can be rebuilt, and interfaces that live in the
-terminal.
+Backend first, at a bank: Java on Micronaut and Spring, with enough AWS
+and Terraform to run what I wrote. Tech lead there by 2023. Then backend
+again at a marketplace, where the hard parts stopped being the code and
+started being everything around it, which is how I ended up on the other
+side of the deploy. Platform engineering since 2025, senior since this
+year: delivery pipelines, cloud, and the tooling teams use to ship
+without having to understand any of it.
 
-Current focus is putting security into that path. Certifications in
-progress, in order:
+Security is the current move. It is less a change of field than a change
+of where the checks live, because a pipeline that already builds, tests
+and deploys is the cheapest place to also verify. I am working through
+the Practical DevSecOps CDP, and a cloud security certification after
+it, with OWASP's Top 10, ASVS and SAMM as the reading underneath and
+TryHackMe for the hands.
 
-- Certified DevSecOps Professional (CDP), Practical DevSecOps
-- AWS Certified Security – Specialty
-- Professional Cloud Security Engineer, Google Cloud
-- Certified Cloud Security Professional (CCSP), ISC²
+Most of what is on this site is the same instinct applied to my own
+things: the installer here checks who built the binary, the platform lab
+tells you that joining the `docker` group is equivalent to root before
+you accept, and the observability lab tests that RBAC actually refuses.
 
-Study also runs through TryHackMe and OWASP (Top 10, ASVS, SAMM).
+## Stack
 
-Stack I actually use: Rust, NixOS, containers when they earn their
-keep, GitHub Actions, and enough Kubernetes to not pretend otherwise.
+Rust by choice, for anything of my own. Go, Python, Shell and Terraform
+at work. Kubernetes when the thing needs it and not before. Arch with
+Hyprland on the laptop, NixOS on the machine that serves this page.
 
 ## Contact
 {{ links }}

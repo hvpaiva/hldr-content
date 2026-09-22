@@ -1,11 +1,12 @@
 kind: Profile
 spec:
   name: Highlander Paiva
-  headline: senior platform engineer → devsecops / appsec
+  headline: senior platform engineer · devsecops
   bio: >
-    Senior platform engineer. I build delivery paths that are boring on
-    purpose: CI/CD, hosts you can rebuild, and security in the pipeline,
-    not taped on after. This site is a sample of that craft.
+    Senior platform engineer. Design, then front-end, then back-end, and
+    then the delivery path itself: the pipelines, the cloud accounts and
+    the internal tooling other teams ship through. Moving that work
+    toward security now.
   email: contact@hvpaiva.dev
   links:
     github: https://github.com/hvpaiva
