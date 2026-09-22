@@ -1,0 +1,8 @@
+kind: Page
+metadata:
+  name: etc
+  title: etc
+  description: Exercises, half-finished tools, and repositories that found an audience I never asked for.
+spec:
+  content:
+    file: etc.md

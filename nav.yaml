@@ -9,6 +9,7 @@ spec:
         - page: about
         - collection: projects
           open_max: 8
+        - page: etc
         - collection: blog
     - name: commands
       items:
