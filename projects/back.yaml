@@ -1,0 +1,15 @@
+kind: Project
+metadata:
+  name: back
+  title: BACK lab
+  tagline: An internal developer platform you can run on a laptop and change.
+  status: wip
+  highlight: 2
+  tags: [kubernetes, argo-cd, crossplane, kyverno]
+  links:
+    repo: https://github.com/hvpaiva/back
+  github: hvpaiva/back
+spec:
+  frontmatter: open
+  content:
+    file: back.md
