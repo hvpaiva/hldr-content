@@ -1,0 +1,15 @@
+kind: Project
+metadata:
+  name: tardis
+  title: tardis
+  tagline: Human time expressions into exact datetimes, from the terminal.
+  status: active
+  tags: [rust, cli, crates.io]
+  links:
+    repo: https://github.com/hvpaiva/tardis-cli
+    docs: https://docs.rs/tardis-cli
+  github: hvpaiva/tardis-cli
+spec:
+  frontmatter: open
+  content:
+    file: tardis.md

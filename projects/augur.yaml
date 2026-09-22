@@ -1,0 +1,15 @@
+kind: Project
+metadata:
+  name: augur
+  title: augur
+  tagline: Inline command suggestions for bash, one word at a time.
+  status: active
+  highlight: 3
+  tags: [rust, bash, ollama]
+  links:
+    repo: https://github.com/hvpaiva/augur
+  github: hvpaiva/augur
+spec:
+  frontmatter: open
+  content:
+    file: augur.md

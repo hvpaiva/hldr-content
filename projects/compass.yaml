@@ -1,0 +1,14 @@
+kind: Project
+metadata:
+  name: compass
+  title: COMPASS
+  tagline: A Claude Code skill where the human writes the code and the LLM is barred from it.
+  status: active
+  tags: [claude-code, shell, llm]
+  links:
+    repo: https://github.com/hvpaiva/compass
+  github: hvpaiva/compass
+spec:
+  frontmatter: open
+  content:
+    file: compass.md

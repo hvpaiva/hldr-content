@@ -1,6 +1,6 @@
 ## The problem
 
-Platform engineering is easy to read about and hard to practise. Changing
+Platform engineering is easy to read about and hard to practice. Changing
 a platform means having one, and wiring Backstage, Argo CD, Crossplane and
 Kyverno together until they agree with each other is the part nobody hands
 you.

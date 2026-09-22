@@ -1,0 +1,14 @@
+kind: Project
+metadata:
+  name: trlt
+  title: trlt
+  tagline: A terminal translator that can keep the text on your machine.
+  status: active
+  tags: [rust, cli, ollama]
+  links:
+    repo: https://github.com/hvpaiva/trlt
+  github: hvpaiva/trlt
+spec:
+  frontmatter: open
+  content:
+    file: trlt.md
