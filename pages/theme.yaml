@@ -1,0 +1,8 @@
+kind: Page
+metadata:
+  name: theme
+  title: theme
+  description: Pick a palette. Omarchy themes, applied to this page.
+spec:
+  buffer: "[colorscheme]"
+  style: colorscheme

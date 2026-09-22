@@ -1,15 +1,18 @@
 kind: Theme
-title: White
-dark: false
-colors:
-  bg: "#ffffff"
-  fg: "#000000"
-  fg_dim: "#000000"
-  fg_muted: "#c0c0c0"
-  accent: "#6e6e6e"
-  accent2: "#1a1a1a"
-  highlight: "#4a4a4a"
-  special: "#2e2e2e"
-  teal: "#3e3e3e"
-  error: "#2a2a2a"
-  border: "#c0c0c0"
+metadata:
+  name: white
+spec:
+  title: White
+  dark: false
+  colors:
+    bg: "#ffffff"
+    fg: "#000000"
+    fg_dim: "#000000"
+    fg_muted: "#c0c0c0"
+    accent: "#6e6e6e"
+    accent2: "#1a1a1a"
+    highlight: "#4a4a4a"
+    special: "#2e2e2e"
+    teal: "#3e3e3e"
+    error: "#2a2a2a"
+    border: "#c0c0c0"

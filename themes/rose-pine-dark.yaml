@@ -1,15 +1,18 @@
 kind: Theme
-title: Rose Pine Dark
-dark: true
-colors:
-  bg: "#191724"
-  fg: "#e0def4"
-  fg_dim: "#e0def4"
-  fg_muted: "#6e6a86"
-  accent: "#31748f"
-  accent2: "#9ccfd8"
-  highlight: "#f6c177"
-  special: "#c4a7e7"
-  teal: "#ebbcba"
-  error: "#eb6f92"
-  border: "#6e6a86"
+metadata:
+  name: rose-pine-dark
+spec:
+  title: Rose Pine Dark
+  dark: true
+  colors:
+    bg: "#191724"
+    fg: "#e0def4"
+    fg_dim: "#e0def4"
+    fg_muted: "#6e6a86"
+    accent: "#31748f"
+    accent2: "#9ccfd8"
+    highlight: "#f6c177"
+    special: "#c4a7e7"
+    teal: "#ebbcba"
+    error: "#eb6f92"
+    border: "#6e6a86"

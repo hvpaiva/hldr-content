@@ -1,15 +1,18 @@
 kind: Theme
-title: Matte Black
-dark: true
-colors:
-  bg: "#121212"
-  fg: "#bebebe"
-  fg_dim: "#8a8a8d"
-  fg_muted: "#555555"
-  accent: "#e68e0d"
-  accent2: "#e68e0d"
-  highlight: "#b91c1c"
-  special: "#d35f5f"
-  teal: "#bebebe"
-  error: "#d35f5f"
-  border: "#1e1e1e"
+metadata:
+  name: matte-black
+spec:
+  title: Matte Black
+  dark: true
+  colors:
+    bg: "#121212"
+    fg: "#bebebe"
+    fg_dim: "#8a8a8d"
+    fg_muted: "#555555"
+    accent: "#e68e0d"
+    accent2: "#e68e0d"
+    highlight: "#b91c1c"
+    special: "#d35f5f"
+    teal: "#bebebe"
+    error: "#d35f5f"
+    border: "#1e1e1e"

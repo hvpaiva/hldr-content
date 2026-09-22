@@ -1,0 +1,26 @@
+kind: Nav
+spec:
+  sections:
+    # A section's name is the key browsers keep its fold under.
+    - name: files
+      title: "{{ site.title }}"
+      items:
+        - page: index
+        - page: about
+        - collection: projects
+          open_max: 8
+        - collection: blog
+    - name: commands
+      items:
+        - command: colorscheme
+        - command: find
+        - command: help
+        - command: checkhealth
+    - name: elsewhere
+      items:
+        - link: profile.links.github
+        - link: profile.links.linkedin
+        - link: profile.email
+          label: mail
+  statusline:
+    count: projects

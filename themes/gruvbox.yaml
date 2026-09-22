@@ -1,15 +1,18 @@
 kind: Theme
-title: Gruvbox
-dark: true
-colors:
-  bg: "#282828"
-  fg: "#d4be98"
-  fg_dim: "#bdae93"
-  fg_muted: "#7c6f64"
-  accent: "#7daea3"
-  accent2: "#7daea3"
-  highlight: "#d8a657"
-  special: "#d3869b"
-  teal: "#89b482"
-  error: "#ea6962"
-  border: "#3c3836"
+metadata:
+  name: gruvbox
+spec:
+  title: Gruvbox
+  dark: true
+  colors:
+    bg: "#282828"
+    fg: "#d4be98"
+    fg_dim: "#bdae93"
+    fg_muted: "#7c6f64"
+    accent: "#7daea3"
+    accent2: "#7daea3"
+    highlight: "#d8a657"
+    special: "#d3869b"
+    teal: "#89b482"
+    error: "#ea6962"
+    border: "#3c3836"

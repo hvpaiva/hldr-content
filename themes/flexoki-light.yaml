@@ -1,15 +1,18 @@
 kind: Theme
-title: Flexoki Light
-dark: false
-colors:
-  bg: "#fffcf0"
-  fg: "#100f0f"
-  fg_dim: "#403e3c"
-  fg_muted: "#878580"
-  accent: "#205ea6"
-  accent2: "#205ea6"
-  highlight: "#d0a215"
-  special: "#ce5d97"
-  teal: "#3aa99f"
-  error: "#d14d41"
-  border: "#e6e4d9"
+metadata:
+  name: flexoki-light
+spec:
+  title: Flexoki Light
+  dark: false
+  colors:
+    bg: "#fffcf0"
+    fg: "#100f0f"
+    fg_dim: "#403e3c"
+    fg_muted: "#878580"
+    accent: "#205ea6"
+    accent2: "#205ea6"
+    highlight: "#d0a215"
+    special: "#ce5d97"
+    teal: "#3aa99f"
+    error: "#d14d41"
+    border: "#e6e4d9"

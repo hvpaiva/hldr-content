@@ -1,15 +1,18 @@
 kind: Theme
-title: Midnight
-dark: true
-colors:
-  bg: "#000000"
-  fg: "#efefef"
-  fg_dim: "#efefef"
-  fg_muted: "#8a8a8d"
-  accent: "#407e70"
-  accent2: "#407e70"
-  highlight: "#f59e0b"
-  special: "#8a8a8d"
-  teal: "#407e70"
-  error: "#b91c1c"
-  border: "#8a8a8d"
+metadata:
+  name: midnight
+spec:
+  title: Midnight
+  dark: true
+  colors:
+    bg: "#000000"
+    fg: "#efefef"
+    fg_dim: "#efefef"
+    fg_muted: "#8a8a8d"
+    accent: "#407e70"
+    accent2: "#407e70"
+    highlight: "#f59e0b"
+    special: "#8a8a8d"
+    teal: "#407e70"
+    error: "#b91c1c"
+    border: "#8a8a8d"

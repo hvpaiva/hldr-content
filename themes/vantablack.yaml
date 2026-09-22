@@ -1,15 +1,18 @@
 kind: Theme
-title: Vantablack
-dark: true
-colors:
-  bg: "#000000"
-  fg: "#ffffff"
-  fg_dim: "#ececec"
-  fg_muted: "#505050"
-  accent: "#8d8d8d"
-  accent2: "#8d8d8d"
-  highlight: "#cecece"
-  special: "#9b9b9b"
-  teal: "#b0b0b0"
-  error: "#a4a4a4"
-  border: "#1a1a1a"
+metadata:
+  name: vantablack
+spec:
+  title: Vantablack
+  dark: true
+  colors:
+    bg: "#000000"
+    fg: "#ffffff"
+    fg_dim: "#ececec"
+    fg_muted: "#505050"
+    accent: "#8d8d8d"
+    accent2: "#8d8d8d"
+    highlight: "#cecece"
+    special: "#9b9b9b"
+    teal: "#b0b0b0"
+    error: "#a4a4a4"
+    border: "#1a1a1a"

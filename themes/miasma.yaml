@@ -1,15 +1,18 @@
 kind: Theme
-title: Miasma
-dark: true
-colors:
-  bg: "#222222"
-  fg: "#c2c2b0"
-  fg_dim: "#8a8a7e"
-  fg_muted: "#555555"
-  accent: "#78824b"
-  accent2: "#78824b"
-  highlight: "#b36d43"
-  special: "#bb7744"
-  teal: "#c9a554"
-  error: "#685742"
-  border: "#2c2c2c"
+metadata:
+  name: miasma
+spec:
+  title: Miasma
+  dark: true
+  colors:
+    bg: "#222222"
+    fg: "#c2c2b0"
+    fg_dim: "#8a8a7e"
+    fg_muted: "#555555"
+    accent: "#78824b"
+    accent2: "#78824b"
+    highlight: "#b36d43"
+    special: "#bb7744"
+    teal: "#c9a554"
+    error: "#685742"
+    border: "#2c2c2c"

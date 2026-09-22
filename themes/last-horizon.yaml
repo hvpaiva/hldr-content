@@ -1,15 +1,18 @@
 kind: Theme
-title: Last Horizon
-dark: true
-colors:
-  bg: "#0c0b0c"
-  fg: "#fafcfb"
-  fg_dim: "#cfd3cd"
-  fg_muted: "#584e51"
-  accent: "#b59790"
-  accent2: "#b59790"
-  highlight: "#6b5e73"
-  special: "#c4d8e2"
-  teal: "#a5a0b6"
-  error: "#c38b7b"
-  border: "#0c0b0c"
+metadata:
+  name: last-horizon
+spec:
+  title: Last Horizon
+  dark: true
+  colors:
+    bg: "#0c0b0c"
+    fg: "#fafcfb"
+    fg_dim: "#cfd3cd"
+    fg_muted: "#584e51"
+    accent: "#b59790"
+    accent2: "#b59790"
+    highlight: "#6b5e73"
+    special: "#c4d8e2"
+    teal: "#a5a0b6"
+    error: "#c38b7b"
+    border: "#0c0b0c"

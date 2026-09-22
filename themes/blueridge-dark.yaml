@@ -1,15 +1,18 @@
 kind: Theme
-title: Blueridge Dark
-dark: true
-colors:
-  bg: "#1c2128"
-  fg: "#e8e6e3"
-  fg_dim: "#ffffff"
-  fg_muted: "#4a5568"
-  accent: "#7ea67c"
-  accent2: "#6b8cae"
-  highlight: "#d4af37"
-  special: "#9b8aa0"
-  teal: "#7ec8c8"
-  error: "#cd9575"
-  border: "#4a5568"
+metadata:
+  name: blueridge-dark
+spec:
+  title: Blueridge Dark
+  dark: true
+  colors:
+    bg: "#1c2128"
+    fg: "#e8e6e3"
+    fg_dim: "#ffffff"
+    fg_muted: "#4a5568"
+    accent: "#7ea67c"
+    accent2: "#6b8cae"
+    highlight: "#d4af37"
+    special: "#9b8aa0"
+    teal: "#7ec8c8"
+    error: "#cd9575"
+    border: "#4a5568"

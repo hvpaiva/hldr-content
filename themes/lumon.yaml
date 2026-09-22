@@ -1,15 +1,18 @@
 kind: Theme
-title: Lumon
-dark: true
-colors:
-  bg: "#16242d"
-  fg: "#d6e2ee"
-  fg_dim: "#d6e2ee"
-  fg_muted: "#4d86b0"
-  accent: "#8bc9eb"
-  accent2: "#6fb8e3"
-  highlight: "#6fa4c9"
-  special: "#8bc9eb"
-  teal: "#b4e4f6"
-  error: "#4d86b0"
-  border: "#1b2d40"
+metadata:
+  name: lumon
+spec:
+  title: Lumon
+  dark: true
+  colors:
+    bg: "#16242d"
+    fg: "#d6e2ee"
+    fg_dim: "#d6e2ee"
+    fg_muted: "#4d86b0"
+    accent: "#8bc9eb"
+    accent2: "#6fb8e3"
+    highlight: "#6fa4c9"
+    special: "#8bc9eb"
+    teal: "#b4e4f6"
+    error: "#4d86b0"
+    border: "#1b2d40"

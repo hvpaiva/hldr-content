@@ -1,15 +1,18 @@
 kind: Theme
-title: Hackerman
-dark: true
-colors:
-  bg: "#0b0c16"
-  fg: "#ddf7ff"
-  fg_dim: "#b5c5db"
-  fg_muted: "#6a6e95"
-  accent: "#82fb9c"
-  accent2: "#829dd4"
-  highlight: "#50f7d4"
-  special: "#86a7df"
-  teal: "#7cf8f7"
-  error: "#50f872"
-  border: "#151828"
+metadata:
+  name: hackerman
+spec:
+  title: Hackerman
+  dark: true
+  colors:
+    bg: "#0b0c16"
+    fg: "#ddf7ff"
+    fg_dim: "#b5c5db"
+    fg_muted: "#6a6e95"
+    accent: "#82fb9c"
+    accent2: "#829dd4"
+    highlight: "#50f7d4"
+    special: "#86a7df"
+    teal: "#7cf8f7"
+    error: "#50f872"
+    border: "#151828"

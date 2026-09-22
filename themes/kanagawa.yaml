@@ -1,15 +1,18 @@
 kind: Theme
-title: Kanagawa
-dark: true
-colors:
-  bg: "#1f1f28"
-  fg: "#dcd7ba"
-  fg_dim: "#c8c093"
-  fg_muted: "#727169"
-  accent: "#dcd7ba"
-  accent2: "#7e9cd8"
-  highlight: "#c0a36e"
-  special: "#957fb8"
-  teal: "#6a9589"
-  error: "#c34043"
-  border: "#223249"
+metadata:
+  name: kanagawa
+spec:
+  title: Kanagawa
+  dark: true
+  colors:
+    bg: "#1f1f28"
+    fg: "#dcd7ba"
+    fg_dim: "#c8c093"
+    fg_muted: "#727169"
+    accent: "#dcd7ba"
+    accent2: "#7e9cd8"
+    highlight: "#c0a36e"
+    special: "#957fb8"
+    teal: "#6a9589"
+    error: "#c34043"
+    border: "#223249"

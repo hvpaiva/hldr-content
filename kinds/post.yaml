@@ -1,0 +1,16 @@
+# A placeholder, so the disabled blog has a type. The real one is designed
+# with the blog.
+kind: PageKind
+metadata:
+  name: post
+spec:
+  names:
+    kind: Post
+    singular: post
+    plural: posts
+  fields:
+    summary:
+      type: string
+      required: true
+      description: One line shown under the title in the listing.
+  summary: summary

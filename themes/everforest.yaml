@@ -1,15 +1,18 @@
 kind: Theme
-title: Everforest
-dark: true
-colors:
-  bg: "#2d353b"
-  fg: "#d3c6aa"
-  fg_dim: "#9da9a0"
-  fg_muted: "#4f585e"
-  accent: "#7fbbb3"
-  accent2: "#7fbbb3"
-  highlight: "#dbbc7f"
-  special: "#d699b6"
-  teal: "#83c092"
-  error: "#e67e80"
-  border: "#343f44"
+metadata:
+  name: everforest
+spec:
+  title: Everforest
+  dark: true
+  colors:
+    bg: "#2d353b"
+    fg: "#d3c6aa"
+    fg_dim: "#9da9a0"
+    fg_muted: "#4f585e"
+    accent: "#7fbbb3"
+    accent2: "#7fbbb3"
+    highlight: "#dbbc7f"
+    special: "#d699b6"
+    teal: "#83c092"
+    error: "#e67e80"
+    border: "#343f44"

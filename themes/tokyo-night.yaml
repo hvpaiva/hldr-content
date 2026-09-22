@@ -1,15 +1,18 @@
 kind: Theme
-title: Tokyo Night
-dark: true
-colors:
-  bg: "#1a1b26"
-  fg: "#a9b1d6"
-  fg_dim: "#b4bee6"
-  fg_muted: "#565f89"
-  accent: "#7aa2f7"
-  accent2: "#7aa2f7"
-  highlight: "#e0af68"
-  special: "#ad8ee6"
-  teal: "#449dab"
-  error: "#f7768e"
-  border: "#24283b"
+metadata:
+  name: tokyo-night
+spec:
+  title: Tokyo Night
+  dark: true
+  colors:
+    bg: "#1a1b26"
+    fg: "#a9b1d6"
+    fg_dim: "#b4bee6"
+    fg_muted: "#565f89"
+    accent: "#7aa2f7"
+    accent2: "#7aa2f7"
+    highlight: "#e0af68"
+    special: "#ad8ee6"
+    teal: "#449dab"
+    error: "#f7768e"
+    border: "#24283b"

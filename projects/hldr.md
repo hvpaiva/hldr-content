@@ -1,15 +1,3 @@
----
-kind: Project
-title: hldr
-tagline: Site and CLI for hvpaiva.dev.
-status: active
-highlight: 1
-tags: [rust, sqlite]
-links:
-  repo: https://github.com/hvpaiva/hldr
-github: hvpaiva/hldr
----
-
 ## What it is
 
 Personal site. Desired state is files; observed state is the database. The image lives in the registry. Administration is a CLI in the

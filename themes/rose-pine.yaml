@@ -1,15 +1,18 @@
 kind: Theme
-title: Rose Pine
-dark: false
-colors:
-  bg: "#faf4ed"
-  fg: "#575279"
-  fg_dim: "#6e6a86"
-  fg_muted: "#9893a5"
-  accent: "#56949f"
-  accent2: "#56949f"
-  highlight: "#ea9d34"
-  special: "#907aa9"
-  teal: "#d7827e"
-  error: "#b4637a"
-  border: "#f2e9e1"
+metadata:
+  name: rose-pine
+spec:
+  title: Rose Pine
+  dark: false
+  colors:
+    bg: "#faf4ed"
+    fg: "#575279"
+    fg_dim: "#6e6a86"
+    fg_muted: "#9893a5"
+    accent: "#56949f"
+    accent2: "#56949f"
+    highlight: "#ea9d34"
+    special: "#907aa9"
+    teal: "#d7827e"
+    error: "#b4637a"
+    border: "#f2e9e1"

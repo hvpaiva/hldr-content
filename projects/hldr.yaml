@@ -1,0 +1,15 @@
+kind: Project
+metadata:
+  name: hldr
+  title: hldr
+  tagline: Site and CLI for hvpaiva.dev.
+  status: active
+  highlight: 1
+  tags: [rust, sqlite]
+  links:
+    repo: https://github.com/hvpaiva/hldr
+  github: hvpaiva/hldr
+spec:
+  frontmatter: open
+  content:
+    file: hldr.md

@@ -1,19 +1,6 @@
----
-kind: Profile
-name: Highlander Paiva
-headline: senior platform engineer → devsecops / appsec
-bio: >
-  Senior platform engineer. I build delivery paths that are boring on
-  purpose: CI/CD, hosts you can rebuild, and security in the pipeline,
-  not taped on after. This site is a sample of that craft.
-email: contact@hvpaiva.dev
-links:
-  github: https://github.com/hvpaiva
-  linkedin: https://linkedin.com/in/hvpaiva
-  source: https://github.com/hvpaiva/hvpaiva
----
+# about
 
-Design → front-end → back-end → full-stack → platform → DevSecOps.
+{{ site.values.about }}
 
 I build and operate developer platforms and the path into production.
 The through-line is making systems operable: pipelines that are
@@ -32,3 +19,6 @@ Study also runs through TryHackMe and OWASP (Top 10, ASVS, SAMM).
 
 Stack I actually use: Rust, NixOS, containers when they earn their
 keep, GitHub Actions, and enough Kubernetes to not pretend otherwise.
+
+## Contact
+{{ links }}

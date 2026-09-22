@@ -1,15 +1,18 @@
 kind: Theme
-title: All Hallows Eve
-dark: true
-colors:
-  bg: "#000000"
-  fg: "#ffffff"
-  fg_dim: "#ffffff"
-  fg_muted: "#404040"
-  accent: "#66cc33"
-  accent2: "#3387cc"
-  highlight: "#cc7833"
-  special: "#9933cc"
-  teal: "#cccc33"
-  error: "#c83730"
-  border: "#404040"
+metadata:
+  name: all-hallows-eve
+spec:
+  title: All Hallows Eve
+  dark: true
+  colors:
+    bg: "#000000"
+    fg: "#ffffff"
+    fg_dim: "#ffffff"
+    fg_muted: "#404040"
+    accent: "#66cc33"
+    accent2: "#3387cc"
+    highlight: "#cc7833"
+    special: "#9933cc"
+    teal: "#cccc33"
+    error: "#c83730"
+    border: "#404040"
